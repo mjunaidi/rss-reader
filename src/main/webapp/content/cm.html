@@ -1,0 +1,13 @@
+<div ng-switch on="isLoggedIn" class="row">
+  <div ng-switch-when="true" class="col-12 col-sm-12 col-lg-12">
+    <div class="container">
+      Admin Page!
+    </div>
+  </div>
+  <!--/span-->
+  <div ng-switch-default class="col-12 col-sm-12 col-lg-12">
+    <div class="alert alert-warning">Please log in to view this page!</div>
+  </div>
+  <!--/span-->
+</div>
+<!--/row-->

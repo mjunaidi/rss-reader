@@ -1,0 +1,40 @@
+{
+  "name" : "RSS Reader",
+  "logo" : "/assets/ico/apple-touch-icon-57-precomposed.png",
+  "description" : "Flash News",
+  "version" : "Version 1.0",
+  "developer" : "Developed by: <strong>Mohd Junaidi Bin Jusoh</strong>",
+  "copyright" : "&copy; Mohd Junaidi Bin Jusoh 2013",
+  "credits" : "This software is made possible by Java J2EE, Spring framework, Apache Commons, Apache POI, AngularJS, Twitter's Bootstrap and other open source software.",
+  "themes" : "Themes provided by Bootswatch.",
+  "links" : [
+    {
+      "name" : "Java J2EE",
+      "url" : "http://www.oracle.com/technetwork/java/javaee/overview/index.html"
+    },
+    {
+      "name" : "Spring framework",
+      "url" : "http://spring.io/"
+    },
+    {
+      "name" : "Apache Commons",
+      "url" : "http://commons.apache.org/"
+    },
+    {
+      "name" : "Apache POI",
+      "url" : "http://poi.apache.org/"
+    },
+    {
+      "name" : "AngularJS",
+      "url" : "http://angularjs.org/"
+    },
+    {
+      "name" : "Twitter's Bootstrap",
+      "url" : "http://getbootstrap.com/"
+    },
+    {
+      "name" : "Bootswatch",
+      "url" : "http://bootswatch.com/"
+    }
+  ]
+}
